@@ -41,8 +41,8 @@ $PROC
 EOM
 
 echo "UPLOAD FILES"
-scp -r "${FNAME}.mp4" "cahlen@cahlen.org:~/IPFS-Website/uploads/$PUB/"
-scp -r "${FNAME}.jpg" "cahlen@cahlen.org:~/IPFS-Website/uploads/$PUB/"
-scp -r "data.txt" "cahlen@cahlen.org:~/IPFS-Website/uploads/$PUB/"
+scp -r "${FNAME}.mp4" "user@domain.com:~/IPFS-Website/uploads/$PUB/"
+scp -r "${FNAME}.jpg" "user@domain.com.:~/IPFS-Website/uploads/$PUB/"
+scp -r "data.txt" "user@domain.com:~/IPFS-Website/uploads/$PUB/"/"
 
 echo "DONE"
