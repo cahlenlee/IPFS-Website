@@ -1,0 +1,94 @@
+---
+
+---
+
+<!doctype html><html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Cahlen Lee</title>
+  <link rel="stylesheet" href="/files/text/style.css">
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="{{ page.image }}" />
+  <meta property="og:video" content="{{ page.video }}"
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:site_name" content="Cahlen Lee" />
+  {% if page.categories %}{% for category in page.categories limit:1 %}<meta property="article:section" content="{{ category }}" />{% endfor %}{% endif %}
+  {% if page.tags %}{% for tag in page.tags %}<meta property="article:tag" content="{{ tag }}" />{% endfor %}{% endif %}
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, min-width=500">
+</head>
+
+<body>
+
+    <!-- HEADER IMAGE -->
+    <div id="bannerimage"></div>
+
+    <!-- TOP MENU -->
+    <nav id="hamnav">
+
+      <!-- [THE HAMBURGER] -->
+      <label for="hamburger">☰</label>
+      <input type="checkbox" id="hamburger">
+
+      <!-- [MENU ITEMS] -->
+      <div id="hamitems">
+        <a href="../index.html">Blog</a>
+        <a href="../podcast/">Podcast</a>
+        <a href="../gear/">Gear</a>
+        <a href="../contact/">Contact</a>
+        <a href="../gift/">Gift</a>
+      </div>
+    </nav>
+
+    <!-- 2 COLUMNS -->
+    <div class="wrap">
+
+      <!-- MAIN -->
+      <div class="one">
+        {{ content }}
+      </div>
+
+      <!-- SIDE MENU -->
+      <div class="two">
+
+        <!-- SEARCH -->
+        <h3>SEARCH</h3>
+        <form action="/search.html" method="get">
+           <input type="text" id="search-box" name="query" placeholder="Search Posts" style="width: 100%; height: 36px; font-family: Days;">
+        </form>
+        <br>
+
+        <!-- SIDE MENU -->
+        <h3>TOPICS</h3><hr>
+        <a href="../tag/truth.html">Truth</a><br><hr>
+        <a href="../tag/freedom.html">Freedom</a><br><hr>
+        <a href="../tag/privacy.html">Privacy</a><br><hr>
+        <a href="../tag/survival.html">Survival</a><br><hr>
+        <a href="../tag/health.html">Health</a><br><hr>
+        <a href="../tag/life.html">Life</a><br><hr><br>
+
+        <!-- SUBSCRIBE -->
+        <h3>SUBSCRIBE</h3>
+        <div id="mc_embed_signup">
+          <form action="https://cahlen.us1.list-manage.com/subscribe/post?u=c7b86f875ce90f6371139872b&amp;id=f3b3326b1c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <input style="width: 100%; height: 36px; font-family: Days;" type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email Address" required><br>
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c7b86f875ce90f6371139872b_f3b3326b1c" tabindex="-1" value=""></div>
+            <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button" style="background-color:#333; margin:3px; border:1px solid gray; width:100%; height:36px; color:white; font-family:Days;">
+          </form>
+        </div>
+        <br>
+
+        <!-- DISCLAIMER -->
+        <h3>DISCLAIMER</h3>
+        <p>I could be wrong about anything I present on this site.  Please do your own research before putting this information into effect.
+          <br><br>
+          If you continue to use this site, I will presume you have read my <a href="../notice/">Public Notice</a>.
+        </p>
+      </div>
+    </div>
+          {%- include footer.html -%}
+    </body>
+</html>

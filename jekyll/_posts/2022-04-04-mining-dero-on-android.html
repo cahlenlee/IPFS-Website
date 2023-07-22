@@ -1,0 +1,71 @@
+---
+layout: post
+title:  "Mining Dero on Android"
+date:   2022-04-04 08:12:04 -0600
+tags: crypto
+categories: Blog
+permalink: /mining-dero-on-android/
+image: https://ipfs.cahlen.org/ipfs/QmRDsthVaycksFJ4k6GsSZnjCs3dMxpDb2jthWoSsxKsAQ
+video: https://ipfs.cahlen.org/ipfs/QmairuZJcWD3tFrP3njNqPrQY45iZ7xn8MCBh3xXHKuCEp
+description: Dero is a cryptocurrency similar to Ethereum that is private and mines well on Android devices. Here's a step-by-step guide on how to get your phone mining.
+---
+<video controls preload="none" width="100%" height="auto" poster="{{ page.image }}" src="{{ page.video }}"></video>
+<hr>
+<p>{{ page.description }}</p>
+<!--more-->
+<p>
+<h2>QUICK STEPS</h2>
+<ol>
+
+<li>Download, Install and Launch <b><a href="https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_universal.apk">Termux</a></b> on an Android Device.</li>
+
+<li>Enter Command  "<b>termux-setup-storage</b>" and Choose 'Allow'.</li>
+<img src="https://ipfs.cahlen.org/ipfs/Qmc2QCoQxWZAAjV1nVN9YuunnPKmgjoA1w9mH227i3PtT2" style='width:100%;'>
+
+<li>Enter Command  "<b>pkg install wget</b>" and Confirm Download.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmZUfS9Po5zBAbckrfvsqA3YJTTat6XaCA882Qmbjh9vKd" style='width:100%;'>
+
+<li>Enter Command  "<b>pkg update</b>", Confirm Download and Hit 'Enter' Key on Any Prompts.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmZF4N6x6ouqYJTKJfDkjRxdSjCJyzVU31c1BhksJaL9bS" style='width:100%;'>
+
+<li>Go to "<b>https://github.com/deroproject/derohe/releases</b>" in a Browser and Copy Link to Latest '<b>dero_linux_arm64.tar.gz</b>' File.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmYWMcVKRrnJTptds9LVuLBf5qbMYah9LBvf4BtTZHTCmf" style='width:100%;'>
+
+<li>Back in Termux type "<b>wget </b>", Paste the Link and Press '<b>Enter</b>'.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmQUWu1iQATcdM9rLEWZmibare4jb5GnPXybRw1NDeGeaB" style='width:100%;'>
+
+<li>Enter Command "<b>tar -xvf dero_linux_arm64.tar.gz</b>" to Decompress the File.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmZgBuXZ9jxj1mVoWDK2sv9cQt3P7CWBP7FcfjUtknAQvv" style='width:100%;'>
+
+<li>Enter Command "<b>cd dero_linux_arm64</b>" to Enter the Project Folder.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmQHfxPXn69mxeChVxpobSTKxK8GqVNJF4EFYozbqVTWkt" style='width:100%;'>
+
+<li>Enter Command "<b>./dero-wallet-cli-linux-arm64 --remote</b>" to Launch the Wallet.</li>
+<img src="https://ipfs.cahlen.org/ipfs/Qmcb3rWfyFVZPBUDz6egx67NqW4VtUFqG3Eb8g9qttjep9" style='width:100%;'>
+
+<li>Select '<b>2</b>' and Complete the Wallet Creation Process.</li>
+<img src="https://ipfs.cahlen.org/ipfs/Qmb7xvutkXP1ZPew2Rmdh9yT9r1P3ZLTkAJWTZ9VMdpYuY" style='width:100%;'>
+
+<li>Enter "<b>1</b>" to Display Your Wallet Address then Copy It for Later Use.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmQvASHMhsc4u4ScXR1D8zysJFgCe5qeHPECbMB5YWCfKd" style='width:100%;'>
+
+<li>Enter "<b>4</b>" to Register Your New Wallet for Use. This May Take a Long Time.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmeiuVVJhGeQiUwdVHVpZLoE5T4jWEa8Bi5aeTnqVSYpM6" style='width:100%;'>
+
+<li>Hit "<b>CTRL-C</b>" to Exit the Wallet.</li>
+
+<li>Type "<b>./dero-miner-linux-arm64 --wallet-address=</b>", Paste Your Wallet Address, then Type "<b> --daemon-rpc-address=185.130.44.41:10100”</b> and Press Enter.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmXeowJaxyohjEoZiL4DpcHoV88GLXSv6azgqoyqeE8oYP" style='width:100%;'>
+
+<li>Verify Miner is Running by Ensuring It Looks Like the Image Below.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmPdcBubtbmK1MpoX4NYfEyYy1asvA6tubT4RgvfdQ877Q" style='width:100%;'>
+
+<li>Scroll Down from the Top of the Screen, Expand Termux and Select '<b>Acquire Wakelock</b>'.</li>
+<img src="https://ipfs.cahlen.org/ipfs/QmQF2a6WbEbiwjpmMqzT5JiW3BYEjWM8MNXG69qRsudNJp" style='width:100%;'>
+
+</ol>
+
+<h2>GOOD LUCK!</h2>
+Your miner is running in the background!  Please let me know what Hashrate you're getting on your model of phone: <b>mail@cahlen.org</b>
+
+</p>

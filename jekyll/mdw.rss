@@ -1,0 +1,1127 @@
+---
+
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
+  <channel>	
+<atom:link href="https://cahlen.org/mdw.rss" rel="self" type="application/rss+xml"/>
+    <title>Modern Day Wizards</title>	
+    <description>Seek Truth and Share It</description>	
+    <link>https://cahlen.org/podcast/</link>		
+    <language>en-us</language>
+    <webMaster>info@moderndaywizards.org (Cahlen Lee)</webMaster>	
+    <copyright>2022</copyright>		
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>	
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>	
+    <image>	
+      <link>https://cahlen.org/podcast/</link>
+      <url>https://ipfs.cahlen.org/ipfs/Qmd8fLUwTd6xV2QGWb5bCcqKGghYc2raq7Zp59uRFuxGjU/cover_podcast.jpg</url>
+      <title>Modern Day Wizards</title>		
+    </image>		
+    <itunes:subtitle>Seek Truth and Share It</itunes:subtitle>
+    <itunes:author>Cahlen Lee</itunes:author>
+    <itunes:summary>Seek Truth and Share It</itunes:summary>
+    <itunes:keywords>truth, freedom, health, history, occult, magic, wizards</itunes:keywords>	
+    <itunes:owner>	
+      <itunes:name>Cahlen Lee</itunes:name>	
+      <itunes:email>info@moderndaywizards.org</itunes:email>	
+    </itunes:owner>		
+    <itunes:image href="https://ipfs.cahlen.org/ipfs/Qmd8fLUwTd6xV2QGWb5bCcqKGghYc2raq7Zp59uRFuxGjU/cover_podcast.jpg" />		
+    <itunes:category text="Education" />		
+    <itunes:category text="Religion &amp; Spirituality" />			
+    <itunes:category text="Health &amp; Fitness" />	
+    <itunes:explicit>yes</itunes:explicit>		
+
+
+    <item>	
+      <title>On Wizards, Magic and Gnosis</title>	
+      <link>https://cahlen.org/on-wizards-magic-gnosis/</link>	
+      <pubDate>Thu, 19 Apr 2018 11:30:00 -0500</pubDate>	
+      <description>In this Modern Day Wizards podcast episode, Radagast and Cahlen discuss the topics of Wizards, Magic and Gnosis.
+      
+        https://youtube.com/user/Modwiz125
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmcKDNNzQR7shHoA3pqa3KCSbSyxaNmB6A1tzgHtMLfpFB/CahlenLee_20180419_OnWizardsMagicAndGnosis.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmcKDNNzQR7shHoA3pqa3KCSbSyxaNmB6A1tzgHtMLfpFB/CahlenLee_20180419_OnWizardsMagicAndGnosis.mp3" length="38016782" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: On Wizards, Magic and Gnosis</itunes:subtitle>
+      <itunes:summary>In this Modern Day Wizards podcast episode, Radagast and Cahlen discuss the topics of Wizards, Magic and Gnosis.
+      
+        https://youtube.com/user/Modwiz125
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>5460</itunes:duration>
+      <itunes:keywords>wizards, magic, gnosis, gnosticism</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmcKDNNzQR7shHoA3pqa3KCSbSyxaNmB6A1tzgHtMLfpFB/cover_radagast.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Knowledge, Wisdom and Divination</title>	
+      <link>https://cahlen.org/modern-day-wizards-2-knowledge-wisdom-divination/</link>	
+      <pubDate>Wed, 1 May 2019 11:30:00 -0500</pubDate>	
+      <description>Devin Ryback and Cahlen Lee discuss Knowledge, Wisdom and Divination on this 2nd episode of the Modern Day Wizards podcast.
+      
+        https://themindfulmage.com/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmWPjdNDWEhoRNq8h4HUAZuRCisWV5ZFpLUMRWohZr8Xfw/CahlenLee_20190501_KnowledgeWisdomAndDivination.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmWPjdNDWEhoRNq8h4HUAZuRCisWV5ZFpLUMRWohZr8Xfw/CahlenLee_20190501_KnowledgeWisdomAndDivination.mp3" length="39288868" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Knowledge, Wisdom and Divination</itunes:subtitle>
+      <itunes:summary>Devin Ryback and Cahlen Lee discuss Knowledge, Wisdom and Divination on this 2nd episode of the Modern Day Wizards podcast.
+      
+        https://themindfulmage.com/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4911</itunes:duration>
+      <itunes:keywords>wizards, wisdom, knowledge, divination</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmWPjdNDWEhoRNq8h4HUAZuRCisWV5ZFpLUMRWohZr8Xfw/cover_devin.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+
+    <item>	
+      <title>The Kybalion and Physics</title>	
+      <link>https://cahlen.org/the-kybalion-and-physics/</link>	
+      <pubDate>Sun, 13 Dec 2020 11:30:00 -0500</pubDate>	
+      <description>In this 3rd episode of Modern Day Wizards I am joined by Michael David Moreno to discuss his theory of physics based on the laws of nature presented in the ancient Kybalion.
+      
+        https://kybalionandphysics.com/
+        https://www.blurb.com/b/10122211-the-kybalion-and-physics
+        https://www.blurb.com/b/10394778-the-days-before-the-flood
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmNkSdkM9cBnuyMxpwUbhRTXVjEe7rPRJSZEifYBN3gbqA/CahlenLee_20201213_TheKybalionAndPhysics.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmNkSdkM9cBnuyMxpwUbhRTXVjEe7rPRJSZEifYBN3gbqA/CahlenLee_20201213_TheKybalionAndPhysics.mp3" length="26224708" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: The Kybalion and Physics</itunes:subtitle>
+      <itunes:summary>In this 3rd episode of Modern Day Wizards I am joined by Michael David Moreno to discuss his theory of physics based on the laws of nature presented in the ancient Kybalion.
+      
+        https://kybalionandphysics.com/
+        https://www.blurb.com/b/10122211-the-kybalion-and-physics
+        https://www.blurb.com/b/10394778-the-days-before-the-flood
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>3278</itunes:duration>
+      <itunes:keywords>wizards, kybalion, physics, occult, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmNkSdkM9cBnuyMxpwUbhRTXVjEe7rPRJSZEifYBN3gbqA/cover_michael.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>The Four Pillars of Natural Law</title>	
+      <link>https://cahlen.org/the-four-pillars-of-natural-law/</link>	
+      <pubDate>Sat, 2 Jan 2021 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we discuss the Four Pillars of Natural Law as described by Andrew Brooksher.
+      
+        https://greenriveralchemy.com 
+        https://winnipegalternativemedia.ca 
+        https://odysee.com/@WatchdogAndWake-Up:9 
+        https://odysee.com/@GreenRiverAlchemy:6
+      
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmepxfCpCutanWTksGm43qGFz6gjqYEzvmAZ6CWkUBDd2e/CahlenLee_20210102_TheFourPillarsOfNaturalLaw.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmepxfCpCutanWTksGm43qGFz6gjqYEzvmAZ6CWkUBDd2e/CahlenLee_20210102_TheFourPillarsOfNaturalLaw.mp3" length="34432785" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: The Four Pillars of Natural Law</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we discuss the Four Pillars of Natural Law as described by Andrew Brooksher.
+      
+        https://greenriveralchemy.com 
+        https://winnipegalternativemedia.ca 
+        https://odysee.com/@WatchdogAndWake-Up:9 
+        https://odysee.com/@GreenRiverAlchemy:6
+      
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4304</itunes:duration>
+      <itunes:keywords>wizards, kybalion, natural law, occult, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmepxfCpCutanWTksGm43qGFz6gjqYEzvmAZ6CWkUBDd2e/cover_andy.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+
+    <item>	
+      <title>On Freedom and Oppression</title>	
+      <link>https://cahlen.org/on-freedom-and-oppression/</link>	
+      <pubDate>Sun, 17 Jan 2021 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we discuss the possibility that oppression is inherent to nature and perhaps even necessary at some level in order to maintain a stable society. My guest is Noah Widoff of TaijiReality and the Assembly of Silence Radio Hour.
+      
+        https://silentassembly.libsyn.com/
+        https://www.youtube.com/channel/UC8j2QsBqUb7ylMAnjUCS_ow
+        https://taijireality.substack.com/
+        https://patreon.com/taijireality
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmZDTjR5ssVv8E6PkZw9zGPnpgYMZvrAdAADWoxAppA2dA/CahlenLee_20210117_OnFreedomAndOppression.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmZDTjR5ssVv8E6PkZw9zGPnpgYMZvrAdAADWoxAppA2dA/CahlenLee_20210117_OnFreedomAndOppression.mp3" length="32320831" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: On Freedom and Oppression</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we discuss the possibility that oppression is inherent to nature and perhaps even necessary at some level in order to maintain a stable society. My guest is Noah Widoff of TaijiReality and the Assembly of Silence Radio Hour.
+      
+        https://silentassembly.libsyn.com/
+        https://www.youtube.com/channel/UC8j2QsBqUb7ylMAnjUCS_ow
+        https://taijireality.substack.com/
+        https://patreon.com/taijireality
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4040</itunes:duration>
+      <itunes:keywords>wizards, freedom, government, oppression, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmZDTjR5ssVv8E6PkZw9zGPnpgYMZvrAdAADWoxAppA2dA/cover_noah.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+
+    <item>	
+      <title>The Last Rosicrucian</title>	
+      <link>https://cahlen.org/the-last-rosicrucian/</link>	
+      <pubDate>Thu, 4 Feb 2021 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we discuss the true meaning and origins of the Rosicrucian Order. My guest is Joe Bandel the Last Rosicrucian.
+      
+        https://anarchistbanjosworld.com/
+        https://vimeo.com/user68935438
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmUwcBHpmJppvTc3eFDjByRdkTAzGJbgfy9usCpzVq2iTF/CahlenLee_20210204_TheLastRosicrucian.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmUwcBHpmJppvTc3eFDjByRdkTAzGJbgfy9usCpzVq2iTF/CahlenLee_20210204_TheLastRosicrucian.mp3" length="30304800" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: The Last Rosicrucian</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we discuss the true meaning and origins of the Rosicrucian Order. My guest is Joe Bandel the Last Rosicrucian.
+      
+        https://anarchistbanjosworld.com/
+        https://vimeo.com/user68935438
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>3788</itunes:duration>
+      <itunes:keywords>wizards, religion, spirituality, occult, rosicrucian, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmUwcBHpmJppvTc3eFDjByRdkTAzGJbgfy9usCpzVq2iTF/cover_joe.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>The Breatharian Journey</title>	
+      <link>https://cahlen.org/the-breatharian-journey/</link>	
+      <pubDate>Fri, 12 Feb 2021 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we discuss The Breatharian Journey as experienced by my guest Jesse Boudreau.
+      
+        https://www.ziapermaculture.com/
+        https://www.youtube.com/user/aplantman
+        ziaenergeticsllc@gmail.com
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmZh2suJE2MdsZ5nAbr5A18QHFYYQERcSzdNjSnp2aUzDn/CahlenLee_20210212_TheBreatharianJourney.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmZh2suJE2MdsZ5nAbr5A18QHFYYQERcSzdNjSnp2aUzDn/CahlenLee_20210212_TheBreatharianJourney.mp3" length="28512803" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: The Breatharian Journey</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we discuss The Breatharian Journey as experienced by my guest Jesse Boudreau.
+      
+        https://www.ziapermaculture.com/
+        https://www.youtube.com/user/aplantman
+        ziaenergeticsllc@gmail.com
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>3564</itunes:duration>
+      <itunes:keywords>wizards, fasting, spirituality, health, breatharian, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmZh2suJE2MdsZ5nAbr5A18QHFYYQERcSzdNjSnp2aUzDn/cover_jesse.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Solutions to Tyranny</title>	
+      <link>https://cahlen.org/solutions-to-tyranny/</link>	
+      <pubDate>Tue, 23 Feb 2021 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we are joined by Stew Passmore to discuss the current state of tyranny in the world and how to solve it.
+      
+        https://stewpassmore.com/
+        https://www.youtube.com/channel/UCs8ZSVfdc_nm_gA5qvRoDYQ
+        https://reforestcanada.ca
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmSibDmq4pczbehQUzQwk36MquJu37dcfu8Q6M1qm9jEk8/CahlenLee_20210223_SolutionsToTyranny.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmSibDmq4pczbehQUzQwk36MquJu37dcfu8Q6M1qm9jEk8/CahlenLee_20210223_SolutionsToTyranny.mp3" length="32696781" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Solutions to Tyranny</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we are joined by Stew Passmore to discuss the current state of tyranny in the world and how to solve it.
+      
+        https://stewpassmore.com/
+        https://www.youtube.com/channel/UCs8ZSVfdc_nm_gA5qvRoDYQ
+        https://reforestcanada.ca
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4087</itunes:duration>
+      <itunes:keywords>wizards, tyranny, natural law, spirituality, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmSibDmq4pczbehQUzQwk36MquJu37dcfu8Q6M1qm9jEk8/cover_stew.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>The Human Patriot</title>	
+      <link>https://cahlen.org/the-human-patriot/</link>	
+      <pubDate>Fri, 5 Mar 2021 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we are joined by Steve Martin, also known as Acoustic Steve-o the Human Patriot, to discuss Natural Law, Christianity and the current state of the world.
+      
+        https://bluedragonblog.com/
+        https://t.me/freedomforhumanitynow
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/Qmaov2mx2cBvisKquPop9bJV9fc82yxJSPHmJZnifyM7V9/CahlenLee_20210305_TheHumanPatriot.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/Qmaov2mx2cBvisKquPop9bJV9fc82yxJSPHmJZnifyM7V9/CahlenLee_20210305_TheHumanPatriot.mp3" length="35752685" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: The Human Patriot</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we are joined by Steve Martin, also known as Acoustic Steve-o the Human Patriot, to discuss Natural Law, Christianity and the current state of the world.
+      
+        https://bluedragonblog.com/
+        https://t.me/freedomforhumanitynow
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4469</itunes:duration>
+      <itunes:keywords>wizards, freedom, religion, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/Qmaov2mx2cBvisKquPop9bJV9fc82yxJSPHmJZnifyM7V9/cover_steve.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+
+    <item>	
+      <title>Humanity's Origins</title>	
+      <link>https://cahlen.org/humanitys-origins/</link>	
+      <pubDate>Sun, 7 Mar 2021 11:30:00 -0500</pubDate>	
+      <description>In this episode of Modern Day Wizards we are joined once again by Michael David Moreno to discuss the origins of humanity according to ancient texts.
+      
+        https://kybalionandphysics.com/
+        https://www.youtube.com/channel/UCQ5yOWSgJRiOySOzegQJC_g
+        https://www.blurb.com/b/10394778-the-days-before-the-flood
+        https://www.blurb.com/b/10122211-the-kybalion-and-physics
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmZXC373wrKFVmPNJAgwdpZPSHksDtX4EA3XayvCYsXp6o/CahlenLee_20210307_HumanitysOrigins.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmZXC373wrKFVmPNJAgwdpZPSHksDtX4EA3XayvCYsXp6o/CahlenLee_20210307_HumanitysOrigins.mp3" length="39656616" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Humanity's Origins</itunes:subtitle>
+      <itunes:summary>In this episode of Modern Day Wizards we are joined once again by Michael David Moreno to discuss the origins of humanity according to ancient texts.
+      
+        https://kybalionandphysics.com/
+        https://www.youtube.com/channel/UCQ5yOWSgJRiOySOzegQJC_g
+        https://www.blurb.com/b/10394778-the-days-before-the-flood
+        https://www.blurb.com/b/10122211-the-kybalion-and-physics
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4957</itunes:duration>
+      <itunes:keywords>wizards, history, humanity, religion, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmZXC373wrKFVmPNJAgwdpZPSHksDtX4EA3XayvCYsXp6o/cover_michael.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>A Conversation with Spirit</title>	
+      <link>https://cahlen.org/a-conversation-with-spirit/</link>	
+      <pubDate>Fri, 27 Aug 2021 11:30:00 -0500</pubDate>	
+      <description>I was asked by an anonymous individual calling themself Spirit to record a conversation. We cover a large number of topics including willpower, survival and natural technology.
+      
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmcbFrxE4HeT6wTXSd6i1L25cHYhL26XtXwSr3tpkci4he/CahlenLee_20210827_AConversationWithSpirit.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmcbFrxE4HeT6wTXSd6i1L25cHYhL26XtXwSr3tpkci4he/CahlenLee_20210827_AConversationWithSpirit.mp3" length="32619781" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: A Conversation with Spirit</itunes:subtitle>
+      <itunes:summary>I was asked by an anonymous individual calling themself Spirit to record a conversation. We cover a large number of topics including willpower, survival and natural technology.
+      
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4077</itunes:duration>
+      <itunes:keywords>wizards, freedom, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmcbFrxE4HeT6wTXSd6i1L25cHYhL26XtXwSr3tpkci4he/cover_anon.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Empowered Empaths</title>	
+      <link>https://cahlen.org/empowered-empaths/</link>	
+      <pubDate>Mon, 20 Sep 2021 11:30:00 -0500</pubDate>	
+      <description>Leila Sun joins me for a conversation on Empaths, their challenges and the benefits of embracing their abilities.
+      
+        https://leilasun.com/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmTUumikJnoLh9ZfX3VwtkqYSiUADATcKFUj5v8XbVCz5Q/CahlenLee_20210920_EmpoweredEmpaths.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmTUumikJnoLh9ZfX3VwtkqYSiUADATcKFUj5v8XbVCz5Q/CahlenLee_20210920_EmpoweredEmpaths.mp3" length="17200624" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Empowered Empaths</itunes:subtitle>
+      <itunes:summary>Leila Sun joins me for a conversation on Empaths, their challenges and the benefits of embracing their abilities.
+      
+        https://leilasun.com/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>2150</itunes:duration>
+      <itunes:keywords>wizards, empaths, empathic, intuition, telepathy, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmTUumikJnoLh9ZfX3VwtkqYSiUADATcKFUj5v8XbVCz5Q/cover_leila.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Sovereigns of Allodium</title>	
+      <link>https://cahlen.org/sovereigns-of-allodium/</link>	
+      <pubDate>Sun, 14 Nov 2021 11:30:00 -0500</pubDate>	
+      <description>Sovereign-Naan Of-Allodium joins us to discuss the concept of allodium, which is property held with absolute independence from the feudal system in which most people operate today.
+      
+        https://allodium.is/
+        https://hive.blog/@allodium
+        https://www.youtube.com/channel/UC_SotatAXq42CFN3y8MakVQ
+        https://odysee.com/@Allodium:7?
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmYCjK1NeJf15xyVKymYGbLjavJtTKMpS5Fz8Tzh3REjLa/CahlenLee_20211114_SovereignsOfAllodium.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmYCjK1NeJf15xyVKymYGbLjavJtTKMpS5Fz8Tzh3REjLa/CahlenLee_20211114_SovereignsOfAllodium.mp3" length="29903448" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Sovereigns of Allodium</itunes:subtitle>
+      <itunes:summary>Sovereign-Naan Of-Allodium joins us to discuss the concept of allodium, which is property held with absolute independence from the feudal system in which most people operate today.
+      
+        https://allodium.is/
+        https://hive.blog/@allodium
+        https://www.youtube.com/channel/UC_SotatAXq42CFN3y8MakVQ
+        https://odysee.com/@Allodium:7?
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>3737</itunes:duration>
+      <itunes:keywords>wizards, law, property, allodium, truth</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmYCjK1NeJf15xyVKymYGbLjavJtTKMpS5Fz8Tzh3REjLa/cover_naan.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Humanity's Situation</title>	
+      <link>https://cahlen.org/humanitys-situation/</link>	
+      <pubDate>Mon, 6 Dec 2021 11:30:00 -0500</pubDate>	
+      <description>Cahlen and Giovanni discuss the situation humanity finds itself in, and whether anything can be done about it.
+      
+        https://www.bitchute.com/channel/rML2cIO1agFo/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/Qmd8Pey7UbevHr5CqyALa7bR964vHAP88csBTH5Mmt8EvZ/CahlenLee_20211206_HumanitysSituation.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/Qmd8Pey7UbevHr5CqyALa7bR964vHAP88csBTH5Mmt8EvZ/CahlenLee_20211206_HumanitysSituation.mp3" length="44768585" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Humanity's Situation</itunes:subtitle>
+      <itunes:summary>Cahlen and Giovanni discuss the situation humanity finds itself in, and whether anything can be done about it.
+      
+        https://www.bitchute.com/channel/rML2cIO1agFo/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>5596</itunes:duration>
+      <itunes:keywords>wizards, truth, freedom, covid, vaccines</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/Qmd8Pey7UbevHr5CqyALa7bR964vHAP88csBTH5Mmt8EvZ/cover_giovanni.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Lyme Disease</title>	
+      <link>https://cahlen.org/lyme-disease/</link>	
+      <pubDate>Wed, 8 Dec 2021 11:30:00 -0500</pubDate>	
+      <description>Cahlen and Leila Sun discuss Lyme Disease, including its origins, symptoms and solutions.
+      
+        https://leilasun.com
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmXB88RsW2FFxnk8D8Bq7zGfN24rfKPLMp27YUwsBWBjui/CahlenLee_20211208_LymeDisease.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmXB88RsW2FFxnk8D8Bq7zGfN24rfKPLMp27YUwsBWBjui/CahlenLee_20211208_LymeDisease.mp3" length="17192683" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Lyme Disease</itunes:subtitle>
+      <itunes:summary>Cahlen and Leila Sun discuss Lyme Disease, including its origins, symptoms and solutions.
+      
+        https://leilasun.com
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>2149</itunes:duration>
+      <itunes:keywords>wizards, truth, lyme, health</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmXB88RsW2FFxnk8D8Bq7zGfN24rfKPLMp27YUwsBWBjui/cover_leila.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>God and Soul</title>	
+      <link>https://cahlen.org/god-and-soul/</link>	
+      <pubDate>Mon, 20 Dec 2021 11:30:00 -0500</pubDate>	
+      <description>In this episode of Modern Day Wizards we are joined once again by Joe Bandel the Last Rosicrucian to discuss God and the Soul.
+      
+        https://www.paganspace.net/members/7816811
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmUWeaaLeMXBmp2qGpuvDgXHAyhtWdQYhFsBQDdLAG4Vxd/CahlenLee_20211219_GodAndSoul.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmUWeaaLeMXBmp2qGpuvDgXHAyhtWdQYhFsBQDdLAG4Vxd/CahlenLee_20211219_GodAndSoul.mp3" length="23624656" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: God and Soul</itunes:subtitle>
+      <itunes:summary>In this episode of Modern Day Wizards we are joined once again by Joe Bandel the Last Rosicrucian to discuss God and the Soul.
+      
+        https://www.paganspace.net/members/7816811
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>2953</itunes:duration>
+      <itunes:keywords>wizards, truth, religion, spirituality, god, soul</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmUWeaaLeMXBmp2qGpuvDgXHAyhtWdQYhFsBQDdLAG4Vxd/cover_joe.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Communities and the Law</title>	
+      <link>https://cahlen.org/community-and-the-law/</link>	
+      <pubDate>Sat, 1 Jan 2022 11:30:00 -0500</pubDate>	
+      <description>John and Cahlen discuss the importance of building communities connecting those of us who wish live as removed from the system as possible, and how understanding both Natural Law and man's laws will play into that.
+      
+        MoxieTrip@protonmail.com
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmWzEB8RP2WotyvAF4n9y3vaXpn1dYpVNgxfAsc4D47jzc/CahlenLee_20211231_CommunitiesAndTheLaw.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmWzEB8RP2WotyvAF4n9y3vaXpn1dYpVNgxfAsc4D47jzc/CahlenLee_20211231_CommunitiesAndTheLaw.mp3" length="34144689" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Communities and the Law</itunes:subtitle>
+      <itunes:summary>John and Cahlen discuss the importance of building communities connecting those of us who wish live as removed from the system as possible, and how understanding both Natural Law and man's laws will play into that.
+      
+        MoxieTrip@protonmail.com
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4268</itunes:duration>
+      <itunes:keywords>wizards, truth, community, law</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmWzEB8RP2WotyvAF4n9y3vaXpn1dYpVNgxfAsc4D47jzc/cover_john.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Ancient Origins of the Soul Groups</title>	
+      <link>https://cahlen.org/ancient-origins-of-the-soul-groups/</link>	
+      <pubDate>Sun, 2 Jan 2022 11:30:00 -0500</pubDate>	
+      <description>Joe Bandel the Last Rosicrucian joins us again to discuss the primary soul groups present on the planet, their distinct characteristics and how they got here.
+      
+        https://www.paganspace.net/members/7816811
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmVxMxJZ5awFsRK3cNaobJ4cV1w2h688K1dS5HXED5pNj8/CahlenLee_20220102_AncientOriginsOfTheSoulGroups.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmVxMxJZ5awFsRK3cNaobJ4cV1w2h688K1dS5HXED5pNj8/CahlenLee_20220102_AncientOriginsOfTheSoulGroups.mp3" length="30312630" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Ancient Origins of the Soul Groups</itunes:subtitle>
+      <itunes:summary>Joe Bandel the Last Rosicrucian joins us again to discuss the primary soul groups present on the planet, their distinct characteristics and how they got here.
+      
+        https://www.paganspace.net/members/7816811
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>3789</itunes:duration>
+      <itunes:keywords>wizards, truth, history, souls</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmVxMxJZ5awFsRK3cNaobJ4cV1w2h688K1dS5HXED5pNj8/cover_joe.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+    
+    
+    <item>	
+      <title>Cult and Herd Mentality</title>	
+      <link>https://cahlen.org/cult-and-herd-mentality/</link>	
+      <pubDate>Tue, 4 Jan 2022 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we are joined by Brandon Spencer of The One Great Work Network to discuss the traits and dangers of cult and herd mentalities.
+      
+        https://onegreatworknetwork.com/brandon-spencer
+        https://odysee.com/@BrandonSpencer:c
+        https://www.bitchute.com/channel/sM9W4a9ThzQF/
+        https://www.quora.com/profile/Brandon-Spencer-156
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmTeo4MsYRMcaiRaoYtD5rgUbcRb7ZAuRL3jjQmdFWRxd6/CahlenLee_20220104_CultAndHerdMentality.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmTeo4MsYRMcaiRaoYtD5rgUbcRb7ZAuRL3jjQmdFWRxd6/CahlenLee_20220104_CultAndHerdMentality.mp3" length="20792565" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Cult and Herd Mentality</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we are joined by Brandon Spencer of The One Great Work Network to discuss the traits and dangers of cult and herd mentalities.
+      
+        https://onegreatworknetwork.com/brandon-spencer
+        https://odysee.com/@BrandonSpencer:c
+        https://www.bitchute.com/channel/sM9W4a9ThzQF/
+        https://www.quora.com/profile/Brandon-Spencer-156
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>2599</itunes:duration>
+      <itunes:keywords>wizards, truth, cults, collectivism, psychology</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmTeo4MsYRMcaiRaoYtD5rgUbcRb7ZAuRL3jjQmdFWRxd6/cover_brandon.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+
+    <item>	
+      <title>Limitless Mindset</title>	
+      <link>https://cahlen.org/limitless-mindset/</link>	
+      <pubDate>Sun, 9 Jan 2022 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we are joined by Jonathan Roseland of Limitless Mindset to discuss why biohackers will inherit the Earth.
+
+https://www.limitlessmindset.com/
+https://odysee.com/@jroseland:f/Winter-Solstice-of-Civilization:c
+https://www.limitlessmindset.com/store/books/dick-blender
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/Qme2GuBzmbYhBdXMBnJWswFECzt28bofzFe2yYUZH8pmVe/CahlenLee_20220109_LimitlessMindset.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/Qme2GuBzmbYhBdXMBnJWswFECzt28bofzFe2yYUZH8pmVe/CahlenLee_20220109_LimitlessMindset.mp3" length="20792565" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Limitless Mindset</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we are joined by Jonathan Roseland of Limitless Mindset to discuss why biohackers will inherit the Earth.
+
+https://www.limitlessmindset.com/
+https://odysee.com/@jroseland:f/Winter-Solstice-of-Civilization:c
+https://www.limitlessmindset.com/store/books/dick-blender
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>2599</itunes:duration>
+      <itunes:keywords>wizards, biohacking, health, psychology, freedom</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/Qme2GuBzmbYhBdXMBnJWswFECzt28bofzFe2yYUZH8pmVe/cover_jonathan.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+
+    <item>	
+      <title>Gaia's Ascension</title>	
+      <link>https://cahlen.org/gaias-ascension/</link>	
+      <pubDate>Mon, 17 Jan 2022 11:30:00 -0500</pubDate>	
+      <description>On this episode of Modern Day Wizards we are joined by Joe Bandel the Last Rosicrucian to discuss Gaia's Ascension and how it is affecting humanity.
+      
+https://www.paganspace.net/members/7816811
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmZffJNg8WiouFZVVBnVGCVmgTGAPvP4ajWdDdukg4cysQ/CahlenLee_20220117_GaiasAscension.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmZffJNg8WiouFZVVBnVGCVmgTGAPvP4ajWdDdukg4cysQ/CahlenLee_20220117_GaiasAscension.mp3" length="27096643" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Gaia's Ascension</itunes:subtitle>
+      <itunes:summary>On this episode of Modern Day Wizards we are joined by Joe Bandel the Last Rosicrucian to discuss Gaia's Ascension and how it is affecting humanity.
+      
+https://www.paganspace.net/members/7816811
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>3387</itunes:duration>
+      <itunes:keywords>wizards, gaia, earth, rosicrucian, freedom</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmZffJNg8WiouFZVVBnVGCVmgTGAPvP4ajWdDdukg4cysQ/cover_joe.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+  <item>	
+      <title>Dating in the Modern Age</title>	
+      <link>https://cahlen.org/dating-in-the-modern-age/</link>	
+      <pubDate>Mon, 14 Feb 2022 11:30:00 -0500</pubDate>	
+      <description>We are joined once again by Jonathan Roseland of Limitless Mindset to discuss dating and marriage in the modern age.
+
+The Book:
+https://www.limitlessmindset.com/books/40-dick-in-blender
+
+Video Playlist:
+https://odysee.com/@jroseland:f/Don%27t-Stick-Your-Dick-in-a-Blender:e
+
+Limitless Store:
+https://store.limitlessmindset.com/
+
+We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect. 
+      </description>
+		    <guid>https://ipfs.cahlen.org/ipfs/QmZYm2BCx6fWw12wtb5G4vVaCUfZ3abPqbXdsnNdtciyyN/CahlenLee_20220214_DatingInTheModernAge.mp3</guid>
+      <enclosure url="https://ipfs.cahlen.org/ipfs/QmZYm2BCx6fWw12wtb5G4vVaCUfZ3abPqbXdsnNdtciyyN/CahlenLee_20220214_DatingInTheModernAge.mp3" length="39752656" type="audio/mp3"/>
+      <itunes:author>Cahlen Lee</itunes:author>	
+      <itunes:subtitle>Modern Day Wizards: Gaia's Ascension</itunes:subtitle>
+      <itunes:summary>We are joined once again by Jonathan Roseland of Limitless Mindset to discuss dating and marriage in the modern age.
+
+The Book:
+https://www.limitlessmindset.com/books/40-dick-in-blender
+
+Video Playlist:
+https://odysee.com/@jroseland:f/Don%27t-Stick-Your-Dick-in-a-Blender:e
+
+Limitless Store:
+https://store.limitlessmindset.com/
+        
+        We are probably wrong about at least one thing we say in this episode. Please do your own research before putting this information into effect.
+      </itunes:summary>
+      <itunes:duration>4969</itunes:duration>
+      <itunes:keywords>wizards, gaia, earth, rosicrucian, freedom</itunes:keywords>
+      <itunes:image href="https://ipfs.cahlen.org/ipfs/QmZYm2BCx6fWw12wtb5G4vVaCUfZ3abPqbXdsnNdtciyyN/cover_jonathan.jpg" />
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:block>no</itunes:block>	
+    </item>	
+
+<item>
+<title>Jewish Questions</title>
+<link>https://cahlen.org/jewish-questions/</link>
+<pubDate>Sat, 14 May 2022 11:30:00 -0500</pubDate>
+<description>Cahlen and Giovanni (aka Gypsy Fox) discuss the religion of Judaism from the perspective of a practising Jew without avoiding those more difficult questions... you know the ones.
+
+MORE FROM GIOVANNI:
+https://www.bitchute.com/channel/rML2cIO1agFo/
+https://odysee.com/@GypsyFox
+
+MORE FROM CAHLEN:
+https://www.bitchute.com/channel/HMCvCO1WIFpj/
+https://odysee.com/@Cahlen</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmVZyxTejMi5jqq3JsxtACymduw9bfHk8QUYuPC8xnBUzm/CahlenLee_20220514_JewishQuestions.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmVZyxTejMi5jqq3JsxtACymduw9bfHk8QUYuPC8xnBUzm/CahlenLee_20220514_JewishQuestions.mp3" length="32715571" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Jewish Questions</itunes:subtitle>
+<itunes:summary>Cahlen and Giovanni (aka Gypsy Fox) discuss the religion of Judaism from the perspective of a practising Jew without avoiding those more difficult questions... you know the ones.
+
+MORE FROM GIOVANNI:
+https://www.bitchute.com/channel/rML2cIO1agFo/
+https://odysee.com/@GypsyFox
+
+MORE FROM CAHLEN:
+https://www.bitchute.com/channel/HMCvCO1WIFpj/
+https://odysee.com/@Cahlen</itunes:summary>
+<itunes:duration>3900</itunes:duration>
+<itunes:keywords>religion, judaism, spirituality, jews, wizards</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmVZyxTejMi5jqq3JsxtACymduw9bfHk8QUYuPC8xnBUzm/cover_giovanni.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>    
+
+
+<item>
+<title>The Real Economic System</title>
+<link>https://cahlen.org/the-real-economic-system/</link>
+<pubDate>Sun, 26 June 2022 11:30:00 -0500</pubDate>
+<description>We're joined by Chris of MindsForge to discuss the traditional, cryptocurrency and true economic systems.
+
+https://moderndaywizards.com
+
+---
+
+MORE FROM CHRIS:
+Website: https://mindsforge.com
+Odysee: https://odysee.com/@MindsForge:9
+
+MORE FROM CAHLEN:
+Website: https://cahlen.org
+Odysee: https://odysee.com/@Cahlen:0</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmZZZd1BV24daiS1xZdrjHy2j32hUgMGZufqXKnE34wjby/CahlenLee_20220626_TheRealEconomicSystem.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmZZZd1BV24daiS1xZdrjHy2j32hUgMGZufqXKnE34wjby/CahlenLee_20220626_TheRealEconomicSystem.mp3" length="30808539" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: The Real Economic System</itunes:subtitle>
+<itunes:summary>We're joined by Chris of MindsForge to discuss the traditional, cryptocurrency and true economic systems.
+
+https://moderndaywizards.com
+
+---
+
+MORE FROM CHRIS:
+Website: https://mindsforge.com
+Odysee: https://odysee.com/@MindsForge:9
+
+MORE FROM CAHLEN:
+Website: https://cahlen.org
+Odysee: https://odysee.com/@Cahlen:0</itunes:summary>
+<itunes:duration>3851</itunes:duration>
+<itunes:keywords>finance, cryptocurrency, economics, truth, freedom</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmZZZd1BV24daiS1xZdrjHy2j32hUgMGZufqXKnE34wjby/cover_chris.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>    
+
+
+<item>
+<title>The Coming Shift</title>
+<link>https://cahlen.org/the-coming-shift/</link>
+<pubDate>Fri, 1 July 2022 11:30:00 -0500</pubDate>
+<description>Joe Bandel the Last Rosicrucian joins us again to discuss current events in the physical and astral worlds and what we're likely to see in the coming years.
+
+https://moderndaywizards.org
+
+---
+
+MORE FROM JOE:
+https://anarchistbanjosworld.com/
+
+MORE FROM CAHLEN:
+https://cahlen.org</description>
+<guid>https://ipfs.cahlen.org/ipfs/Qmcc2wcZcGUx3hZC7JGDN2nBiCyzY5SKjFha3GVrg9rQDY/CahlenLee_20220701_TheComingShift.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/Qmcc2wcZcGUx3hZC7JGDN2nBiCyzY5SKjFha3GVrg9rQDY/CahlenLee_20220701_TheComingShift.mp3" length="32496676" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: The Coming Shift</itunes:subtitle>
+<itunes:summary>Joe Bandel the Last Rosicrucian joins us again to discuss current events in the physical and astral worlds and what we're likely to see in the coming years.
+
+https://moderndaywizards.org
+
+---
+
+MORE FROM JOE:
+https://anarchistbanjosworld.com/
+
+MORE FROM CAHLEN:
+https://cahlen.org</itunes:summary>
+<itunes:duration>4052</itunes:duration>
+<itunes:keywords>truth, occult, spirituality, wizards, future</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/Qmcc2wcZcGUx3hZC7JGDN2nBiCyzY5SKjFha3GVrg9rQDY/cover_joe.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+<item>
+<title>The Black Pill</title>
+<link>https://cahlen.org/the-black-pill/</link>
+<pubDate>Wed, 13 July 2022 11:30:00 -0500</pubDate>
+<description>We're joined by James Cordiner of A Hitchhiker's Guide to Truth to discuss the black pill and how to get headed back in the right direction.
+
+https://moderndaywizards.org
+
+---
+
+LINKS:
+https://www.freeyourmindne.com/
+https://www.shatteringtheillusion.info/
+https://freedomundernaturallaw.com/
+https://onegreatworknetwork.com/james-cordiner</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmaYNAw7RrLEsY5xtXg9NphBxsi4eTtvVJq54CbawoTGFi/CahlenLee_20220713_TheBlackPill.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmaYNAw7RrLEsY5xtXg9NphBxsi4eTtvVJq54CbawoTGFi/CahlenLee_20220713_TheBlackPill.mp3" length="26336585" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: The Black Pill</itunes:subtitle>
+<itunes:summary>We're joined by James Cordiner of A Hitchhiker's Guide to Truth to discuss the black pill and how to get headed back in the right direction.
+
+https://moderndaywizards.org
+
+---
+
+LINKS:
+https://www.freeyourmindne.com/
+https://www.shatteringtheillusion.info/
+https://freedomundernaturallaw.com/
+https://onegreatworknetwork.com/james-cordiner</itunes:summary>
+<itunes:duration>3292</itunes:duration>
+<itunes:keywords>truth, occult, freedom, wizards, future</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmaYNAw7RrLEsY5xtXg9NphBxsi4eTtvVJq54CbawoTGFi/cover_james.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+
+<item>
+<title>The Coaching Industry</title>
+<link>https://cahlen.org/the-coaching-industry/</link>
+<pubDate>Fri, 15 July 2022 01:01:01 -0500</pubDate>
+<description>We're joined by David Greenberg of FreedomVibe.Art to discuss the coaching industry and its corruption due to ego, authority and the love of money.
+
+https://moderndaywizards.org
+
+---
+
+DAVID'S LINKS:
+https://freedomvibe.art
+https://youtube.com/c/FreedomVibeArtMedia
+https://odysee.com/@FreedomVibe.art:8
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmUrhHRxp3KfFjpH5dJ5qFZwgf6b6pcSou7GGtXpfojno5/CahlenLee_20220715_TheCoachingIndustry.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmUrhHRxp3KfFjpH5dJ5qFZwgf6b6pcSou7GGtXpfojno5/CahlenLee_20220715_TheCoachingIndustry.mp3" length="24712395" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: The Coaching Industry</itunes:subtitle>
+<itunes:summary>We're joined by David Greenberg of FreedomVibe.Art to discuss the coaching industry and its corruption due to ego, authority and the love of money.
+
+https://moderndaywizards.org
+
+---
+
+DAVID'S LINKS:
+https://freedomvibe.art
+https://youtube.com/c/FreedomVibeArtMedia
+https://odysee.com/@FreedomVibe.art:8
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</itunes:summary>
+<itunes:duration>3089</itunes:duration>
+<itunes:keywords>truth, occult, freedom, coaching, law</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmUrhHRxp3KfFjpH5dJ5qFZwgf6b6pcSou7GGtXpfojno5/cover_david.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+    
+
+<item>
+<title>Offgrid Compound</title>
+<link>https://cahlen.org/offgrid-compound/</link>
+<pubDate>Thu, 21 July 2022 01:01:01 -0500</pubDate>
+<description>We're joined by Joel of AbnormalBliss to discuss his large offgrid compound and how they gather resources such as food, water and electricity.
+
+https://moderndaywizards.org
+
+---
+
+JOEL'S LINKS:
+https://www.bitchute.com/channel/4QxU6FDhEhaW/
+https://odysee.com/@abnormalbliss:2
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmWnXydPe1eSNXhhmGoNgbGYoUSWibGyoHJTiCZJZEPu2n/CahlenLee_20220721_OffgridCompound.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmWnXydPe1eSNXhhmGoNgbGYoUSWibGyoHJTiCZJZEPu2n/CahlenLee_20220721_OffgridCompound.mp3" length="18728683" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Offgrid Compound</itunes:subtitle>
+<itunes:summary>We're joined by Joel of AbnormalBliss to discuss his large offgrid compound and how they gather resources such as food, water and electricity.
+
+https://moderndaywizards.org
+
+---
+
+JOEL'S LINKS:
+https://www.bitchute.com/channel/4QxU6FDhEhaW/
+https://odysee.com/@abnormalbliss:2
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</itunes:summary>
+<itunes:duration>2341</itunes:duration>
+<itunes:keywords>truth, occult, freedom, offgrid, survival</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmWnXydPe1eSNXhhmGoNgbGYoUSWibGyoHJTiCZJZEPu2n/cover_joel.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+    
+<item>
+<title>Wisdom and Mentorship</title>
+<link>https://cahlen.org/wisdom-and-mentorship/</link>
+<pubDate>Fri, 22 July 2022 01:01:01 -0500</pubDate>
+<description>We're joined by the mysterious Sagacious Owl to discuss wisdom and the art of mentorship.
+
+https://moderndaywizards.org</description>
+<guid>https://ipfs.cahlen.org/ipfs/Qmc9uMLoyT8JK9xCyHDY2hzx7MHF536YAycJ97qSvQKSAq/CahlenLee_20220722_WisdomandMentorship.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/Qmc9uMLoyT8JK9xCyHDY2hzx7MHF536YAycJ97qSvQKSAq/CahlenLee_20220722_WisdomandMentorship.mp3" length="30440526" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Wisdom and Mentorship</itunes:subtitle>
+<itunes:summary>We're joined by the mysterious Sagacious Owl to discuss wisdom and the art of mentorship.
+
+https://moderndaywizards.org</itunes:summary>
+<itunes:duration>3805</itunes:duration>
+<itunes:keywords>truth, occult, freedom, wisdom, mentorship</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/Qmc9uMLoyT8JK9xCyHDY2hzx7MHF536YAycJ97qSvQKSAq/cover_owl.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+<item>
+<title>Humanitys Hijacking</title>
+<link>https://cahlen.org/humanitys-hijacking/</link>
+<pubDate>Mon, 25 July 2022 01:01:01 -0500</pubDate>
+<description>We're joined by OmR of Watchers Talk to discuss how Humanity came to Earth, how we were hijacked by ETs in the recent past and how to get back on the right path.
+
+https://moderndaywizards.org
+
+---
+
+OMR'S LINKS:
+https://aprojectionofyou.com/
+https://www.youtube.com/channel/UCRT6vstUj2Xecvfk6Uf1SxA
+https://odysee.com/@Watcherstalk:4
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmRSvmjEadLsSSL9hdrJn5Uj582RJafbSXDC6XqsNen4Va/CahlenLee_20220725_HumanitysHijacking.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmRSvmjEadLsSSL9hdrJn5Uj582RJafbSXDC6XqsNen4Va/CahlenLee_20220725_HumanitysHijacking.mp3" length="32464702" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Humanity's Hijacking</itunes:subtitle>
+<itunes:summary>We're joined by OmR of Watchers Talk to discuss how Humanity came to Earth, how we were hijacked by ETs in the recent past and how to get back on the right path.
+
+https://moderndaywizards.org
+
+---
+
+OMR'S LINKS:
+https://aprojectionofyou.com/
+https://www.youtube.com/channel/UCRT6vstUj2Xecvfk6Uf1SxA
+https://odysee.com/@Watcherstalk:4
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</itunes:summary>
+<itunes:duration>4058</itunes:duration>
+<itunes:keywords>truth, occult, aliens, history, ufo</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmRSvmjEadLsSSL9hdrJn5Uj582RJafbSXDC6XqsNen4Va/cover_omr.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+<item>
+<title>Conversations with the Creator</title>
+<link>https://cahlen.org/conversations-with-the-creator/</link>
+<pubDate>Mon, 26 July 2022 01:01:01 -0500</pubDate>
+<description>We're joined by Chris to discuss his conversations with a being he believes to be the Creator who has a warning for Mankind.
+
+https://moderndaywizards.org
+
+---
+
+CHRIS' LINKS:
+https://odysee.com/@ChrisC:a
+https://www.youtube.com/channel/UC5f8G58HN47peEF5UjGY46A
+https://hive.blog/@eddisonflame
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</description>
+<guid>https://ipfs.cahlen.org/ipfs/Qmdc1F6LLDJFpZL6dYASBfurtZ1SLdjzWhBctokR4ZUx8k/CahlenLee_20220726_ConversationswiththeCreator.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/Qmdc1F6LLDJFpZL6dYASBfurtZ1SLdjzWhBctokR4ZUx8k/CahlenLee_20220726_ConversationswiththeCreator.mp3" length="24200604" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Conversations with the Creator</itunes:subtitle>
+<itunes:summary>We're joined by Chris to discuss his conversations with a being he believes to be the Creator who has a warning for Mankind.
+
+https://moderndaywizards.org
+
+---
+
+CHRIS' LINKS:
+https://odysee.com/@ChrisC:a
+https://www.youtube.com/channel/UC5f8G58HN47peEF5UjGY46A
+https://hive.blog/@eddisonflame
+
+CAHLEN'S LINKS:
+https://cahlen.org
+https://odysee.com/@Cahlen:0</itunes:summary>
+<itunes:duration>3025</itunes:duration>
+<itunes:keywords>truth, occult, religion, future, spirituality</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/Qmdc1F6LLDJFpZL6dYASBfurtZ1SLdjzWhBctokR4ZUx8k/cover_chris2.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+<item>
+<title>Speaking Truth to a Hostile Audience</title>
+<link>https://cahlen.org/speaking-truth-to-a-hostile-audience/</link>
+<pubDate>Wed, 26 Oct 2022 01:01:01 -0500</pubDate>
+<description>David Greenberg of Freedomvibe.art joins us once again to discuss the importance of speaking the truth even in cases where the audience will not likely be receptive to it.
+
+https://freedomvibe.art</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmPsEGNr1LWjT6HDY58y9kLzytro7n7LT9KNdBzCjrrjXo/CahlenLee_20221026_SpeakingTruthtoaHostileAudience.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmPsEGNr1LWjT6HDY58y9kLzytro7n7LT9KNdBzCjrrjXo/CahlenLee_20221026_SpeakingTruthtoaHostileAudience.mp3" length="32286632" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Speaking Truth to a Hostile Audience</itunes:subtitle>
+<itunes:summary>David Greenberg of Freedomvibe.art joins us once again to discuss the importance of speaking the truth even in cases where the audience will not likely be receptive to it.
+
+https://freedomvibe.art</itunes:summary>
+<itunes:duration>4035</itunes:duration>
+<itunes:keywords>truth, occult, philosophy, freedom, spirituality</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmPsEGNr1LWjT6HDY58y9kLzytro7n7LT9KNdBzCjrrjXo/cover_david.jpg" />
+<itunes:explicit>yes</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+<item>
+<title>Ethics of Eating Animals</title>
+<link>https://cahlen.org/ethics-of-eating-animals/</link>
+<pubDate>Wed, 15 Mar 2023 01:01:01 -0500</pubDate>
+<description>David Greenberg and Cahlen Lee discuss the ethics of eating meat within the context of Natural Law.
+
+https://freedomvibe.art</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmceMW6s1jmXfMTKNZ5tAsU2gK3j7GSZqqzrQFJWDMHonR/CahlenLee_20230315_EthicsofEatingAnimals.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmceMW6s1jmXfMTKNZ5tAsU2gK3j7GSZqqzrQFJWDMHonR/CahlenLee_20230315_EthicsofEatingAnimals.mp3" length="23267490" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Ethics of Eating Animals</itunes:subtitle>
+<itunes:summary>David Greenberg and Cahlen Lee discuss the ethics of eating meat within the context of Natural Law.
+
+https://freedomvibe.art</itunes:summary>
+<itunes:duration>2908</itunes:duration>
+<itunes:keywords>truth, occult, philosophy, freedom, vegan</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmPsEGNr1LWjT6HDY58y9kLzytro7n7LT9KNdBzCjrrjXo/cover_david.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+<item>
+<title>Food Freedom</title>
+<link>https://cahlen.org/food-freedom/</link>
+<pubDate>Sat, 18 Mar 2023 01:01:01 -0500</pubDate>
+<description>Jesse Boudreau joins us to discuss how we can resist the tyrants who seek to enslave us by building towards food independence.
+
+https://www.ziapermaculture.com/</description>
+<guid>https://ipfs.cahlen.org/ipfs/QmXyxc1ruwZVPoK5ryjNfrFQ5kMvbuqQHszG9RbYi12WBp/CahlenLee_20230318_FoodFreedom.mp3</guid>
+<enclosure url="https://ipfs.cahlen.org/ipfs/QmXyxc1ruwZVPoK5ryjNfrFQ5kMvbuqQHszG9RbYi12WBp/CahlenLee_20230318_FoodFreedom.mp3" length="18221051" type="audio/mp3"/>
+<itunes:author>Cahlen Lee</itunes:author>
+<itunes:subtitle>Modern Day Wizards: Food Freedom</itunes:subtitle>
+<itunes:summary>Jesse Boudreau joins us to discuss how we can resist the tyrants who seek to enslave us by building towards food independence.
+
+https://www.ziapermaculture.com/</itunes:summary>
+<itunes:duration>2278</itunes:duration>
+<itunes:keywords>food, freedom, vegan, health, permaculture, breatharian, survival</itunes:keywords>
+<itunes:image href="https://ipfs.cahlen.org/ipfs/QmXyxc1ruwZVPoK5ryjNfrFQ5kMvbuqQHszG9RbYi12WBp/cover_jesse.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+</item>
+
+
+</channel>
+</rss>

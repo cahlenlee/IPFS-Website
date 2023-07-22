@@ -1,0 +1,8 @@
+---
+layout: default
+---
+  <hr>
+  <h1>{{ page.title | escape }}</h1>
+  <sup><a href="{{ site.baseurl }}{{ post.url }}">{{ page.date | date: "%b %-d"}}, {{ page.date | date: "%Y"}}</a></sup>
+  {{ content }}
+  {%- include signature.html -%}

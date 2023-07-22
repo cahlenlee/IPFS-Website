@@ -1,0 +1,56 @@
+---
+layout: default
+pagination:
+  enabled: true
+---
+
+<!-- PAGINATE -->
+{% assign posts = paginator.posts %}
+{%- if posts.size > 0 -%}
+  {%- if page.list_title -%}
+    <h2>{{ page.list_title }}</h2>
+  {%- endif -%}
+  <ul style="list-style-type:none; padding:0;">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    {%- for post in posts -%}
+    <hr>
+    <li>
+      <h1>
+        <a class="title" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h1>
+      <sup><a href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: date_format }}</a></sup>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+        {% if post.excerpt != post.content %}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+        {% endif %}
+      {%- endif -%}
+    </li>
+    <br><br><br>
+    {%- endfor -%}
+  </ul>
+
+  <!-- PAGEINATION NAVIGATION -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+        <a href="/">&#x3C;&#x3C;&#x3C;</a>
+      {% else %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">&#x3C;&#x3C;&#x3C;</a>
+      {% endif %}
+    {% else %}
+      <span class="previous">&#x3C;&#x3C;&#x3C;</span>
+    {% endif %}
+
+    <span class="page_number">
+      Page {{ paginator.page }} of {{ paginator.total_pages }}
+    </span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">>>></a>
+    {% else %}
+      <span class="next">>>></span>
+    {% endif %}
+
+  </div>
+{%- endif -%}
